@@ -83,4 +83,5 @@
   <!-- Si tienes LinkedIn, cambia TU-USUARIO y quita los comentarios -->
   <!-- <a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
   <a href="https://github.com/Azkona05"><img src="https://img.shields.io/badge/GitHub-Azkona05-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/azkona05/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
 </p>
